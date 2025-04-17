@@ -1,0 +1,10 @@
+1: The buttons on the dashboard are
+misaligned after resizing the window.
+2: User roles are not saving correctly;
+some users are getting access to admin
+features.
+3: Clicking ‘Submit’ twice causes
+duplicate records to be created.
+4: Some reports show incorrect
+calculations, and the interface layout
+breaks when resizing the window.

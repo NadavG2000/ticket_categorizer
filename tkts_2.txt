@@ -1,0 +1,8 @@
+101: Users without admin privileges can
+access restricted settings.
+102: Email notifications are not being
+sent after changing SMTP settings.
+103: The app crashes when uploading
+large files.
+104: Some users are missing transaction
+history from last month.
